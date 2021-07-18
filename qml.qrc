@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/clock template.svg</file>
+        <file>image/background.png</file>
+    </qresource>
+</RCC>
